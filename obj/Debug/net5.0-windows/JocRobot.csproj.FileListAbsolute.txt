@@ -22,3 +22,7 @@ C:\projecteVS\RobotGame\JocRobot\obj\Debug\net5.0-windows\JocRobot.dll
 C:\projecteVS\RobotGame\JocRobot\obj\Debug\net5.0-windows\ref\JocRobot.dll
 C:\projecteVS\RobotGame\JocRobot\obj\Debug\net5.0-windows\JocRobot.pdb
 C:\projecteVS\RobotGame\JocRobot\obj\Debug\net5.0-windows\JocRobot.genruntimeconfig.cache
+C:\projecteVS\RobotGame\JocRobot\bin\Debug\net5.0-windows\imatges\copa.jpg
+C:\projecteVS\RobotGame\JocRobot\bin\Debug\net5.0-windows\imatges\robot1.jpg
+C:\projecteVS\RobotGame\JocRobot\bin\Debug\net5.0-windows\imatges\robot2.png
+C:\projecteVS\RobotGame\JocRobot\obj\Debug\net5.0-windows\JocRobot_Content.g.cs

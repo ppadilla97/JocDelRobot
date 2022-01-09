@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:JocRobot"
         mc:Ignorable="d"
-        Title="wndTauler" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="wndTauler" Height="450" Width="800"
+        Loaded="Window_Loaded" KeyDown="grdGraella_KeyDown">
+    <DockPanel>
+        <StatusBar DockPanel.Dock="Bottom">
+            <TextBlock x:Name="tbMoviments" Text="Número de moviments -> "/>
+        </StatusBar>
+        <Grid x:Name="grdGraella"/>
+    </DockPanel>
 </Window>

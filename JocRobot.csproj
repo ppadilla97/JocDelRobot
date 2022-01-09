@@ -6,4 +6,22 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="imatges\copa.jpg" />
+    <None Remove="imatges\robot1.jpg" />
+    <None Remove="imatges\robot2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="imatges\copa.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imatges\robot1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imatges\robot2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
